@@ -4,4 +4,5 @@
 
 link: https://eduardo-amaro-maciel.github.io/Artip-App-Site/
 
-![artip](https://user-images.githubusercontent.com/73178068/175407477-53891860-0f6b-4cbe-a902-925fa19f14c2.JPG)
+![ssa](https://user-images.githubusercontent.com/73178068/175407670-2377dc87-048b-4f28-9e92-687a505aa0c7.JPG)
+
